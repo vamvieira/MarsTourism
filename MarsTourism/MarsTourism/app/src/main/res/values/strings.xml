@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MarsTourism</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_e_mail">e-mail</string>
+    <string name="hint_password">senha</string>
+    <string name="login_button_text">Logar</string>
+    <string name="time_frame_title">Selecione o período que deseja viajar</string>
+    <string name="date_picker_ida">Data de Ida:</string>
+    <string name="date_picker_volta">Data de Volta:</string>
+    <string name="time_frame_button_text">Escolher Passagens</string>
+    <string name="payment_title">Confira seu pedido e faça o pagamento</string>
+    <string name="total_price_to_pay">Total do Pedido:</string>
+    <string name="payment_button_text">Confirmar Pagamento</string>
+    <string name="receipt_title">Parabéns pela compra de suas passagens e boa Viagem!!</string>
+    <string name="lbl_idoso">Idoso</string>
+    <string name="lbl_adult">Adulto</string>
+    <string name="lbl_child">Criança</string>
+    <string name="title_confirm_purchase">Selecione a quantidade de passagens que deseja comprar</string>
+</resources>
